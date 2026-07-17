@@ -1,0 +1,46 @@
+{
+ "tol": 0.002,
+ "pass": true,
+ "prompts": [
+  {
+   "prompt": "The capital of France is",
+   "max_abs_diff": 0.0,
+   "tokens_match": true
+  },
+  {
+   "prompt": "def fibonacci(n):\n    ",
+   "max_abs_diff": 0.0,
+   "tokens_match": true
+  },
+  {
+   "prompt": "In 1969, the Apollo 11 mission",
+   "max_abs_diff": 0.0,
+   "tokens_match": true
+  },
+  {
+   "prompt": "SELECT name, age FROM users WHERE",
+   "max_abs_diff": 0.0,
+   "tokens_match": true
+  },
+  {
+   "prompt": "The mitochondria is the powerhouse of",
+   "max_abs_diff": 0.0,
+   "tokens_match": true
+  },
+  {
+   "prompt": "Once upon a time, in a quiet village,",
+   "max_abs_diff": 0.0,
+   "tokens_match": true
+  },
+  {
+   "prompt": "To reverse a linked list in C, you",
+   "max_abs_diff": 0.0,
+   "tokens_match": true
+  },
+  {
+   "prompt": "El clima de hoy en Madrid es",
+   "max_abs_diff": 0.0,
+   "tokens_match": true
+  }
+ ]
+}
